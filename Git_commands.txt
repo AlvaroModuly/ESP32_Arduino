@@ -1,0 +1,13 @@
+Code Git Bash
+
+Use git bash in th folder of the files (Blank space)
+--- Add files
+git add .
+---- Commit
+git commit -m "Message"
+--- Push into the server
+git push origin main
+
+(Last resource)
+--force
+--u
